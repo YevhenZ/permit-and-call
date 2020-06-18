@@ -4,7 +4,9 @@ A tiny smart contract which calls [`permit`](https://github.com/ethereum/EIPs/pu
 
 ## Address
 
-| chainId | address                                                                              |
+`0xe334094985bb046b95550793ea577f8dc4e6112b`
+
+| chainId |                                                                                      |
 | ------- | ------------------------------------------------------------------------------------ |
 | 1       | https://etherscan.io/address/0xe334094985bb046b95550793ea577f8dc4e6112b#code         |
 | 3       | https://ropsten.etherscan.io/address/0xe334094985bb046b95550793ea577f8dc4e6112b#code |
